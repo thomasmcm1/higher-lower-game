@@ -2,7 +2,7 @@
 
 A Python command-line game where you guess which person has the higher net worth.
 
-## 🎮 How it works
+## How it works
 - You are shown two people at a time
 - You must guess who has the higher net worth
 - You can type:
@@ -11,7 +11,7 @@ A Python command-line game where you guess which person has the higher net worth
   - last name  
 - Input is case-insensitive
 
-## 🧠 Features
+## Features
 - Flexible name matching (first/last/full name)
 - Case-insensitive input
 - ASCII art “Higher / Lower” title screen
